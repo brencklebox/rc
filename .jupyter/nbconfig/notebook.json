@@ -1,0 +1,18 @@
+{
+  "Cell": {
+    "cm_config": {
+      "lineNumbers": true
+    }
+  }, 
+  "load_extensions": {
+    "execute_time/ExecuteTime": true, 
+    "collapsible_headings/main": true, 
+    "zenmode/main": true, 
+    "nbextensions_configurator/config_menu/main": true, 
+    "codefolding/main": true, 
+    "contrib_nbextensions_help_item/main": true
+  }, 
+  "collapsible_headings": {
+    "toggle_color": "#ff0500"
+  }
+}
