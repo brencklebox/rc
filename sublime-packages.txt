@@ -1,0 +1,19 @@
+Colorsublime
+Latex tools
+markupsafe
+mdpopups
+oauthlib
+pretty JSON
+pygments
+python
+python Flake8 lint
+python Jinja2
+python-markdown
+pyyaml
+requests
+requests-oauthlib
+SublimeLinter
+tabulate
+
+Boxy themen -- ocean
+Inconsolata font

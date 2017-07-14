@@ -1,0 +1,28 @@
+{
+    "added_words":
+    [
+        "reverification",
+        "Newsfeed",
+        "Jupyter",
+        "Github",
+        "Pyspark",
+        "Databricks",
+        "Heroku",
+        "productionized"
+    ],
+    "color_scheme": "Packages/User/SublimeLinter/One Dark (Flake8Lint) (SL).tmTheme",
+    "font_face": "InconsolataGo",
+    "font_size": 14,
+    "ignored_packages":
+    [
+        "Python",
+        "Vintage"
+    ],
+    "mdpopups.use_sublime_highlighter": true,
+    "save_on_focus_lost": true,
+    "scroll_past_end": true,
+    "show_definitions": true,
+    "theme": "Boxy Ocean.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "word_wrap": true
+}
